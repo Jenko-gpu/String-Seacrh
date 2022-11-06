@@ -70,6 +70,7 @@ Brute search:445 ms
 
 Hash search:7 ms
 
+
 Brute search:449 ms
 
 Hash search:7 ms
@@ -80,6 +81,7 @@ __________________
 Brute search:8 ms
 
 Hash search:7 ms
+
 
 Brute search:8 ms
 
