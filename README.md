@@ -2,12 +2,12 @@
 Талхин Марсель КНМО-101
 
   команда:
-  node main.js text.txt substring
+    node main.js text.txt substring
 
 Система:
-Процессор 2.4Ghz
-8гб Оперативной памяти
-Windows 10 enterprise 
+  Процессор 2.4Ghz
+  8гб Оперативной памяти
+  Windows 10 enterprise 
 
 Тесты:
 1) Увеличение длины текста:
