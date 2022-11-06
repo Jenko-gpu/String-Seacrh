@@ -64,6 +64,7 @@ __________________
 Вторая - запись в массив занимает достаточно большое время, что может повлиять на результаты.
 
 3) Сравнение brute force и "хэшей":
+
   3.1 node main.js a.txt aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
 __________________
 Brute search:445 ms
