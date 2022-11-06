@@ -5,9 +5,13 @@
     node main.js text.txt substring
 
 Система:
+
   Процессор 2.4Ghz
+  
   8гб Оперативной памяти
+  
   Windows 10 enterprise 
+  
 
 Тесты:
 1) Увеличение длины текста:
