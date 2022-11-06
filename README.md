@@ -67,18 +67,22 @@ __________________
   node main.js a.txt aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
 __________________
 Brute search:445 ms
+
 Hash search:7 ms
 
 Brute search:449 ms
+
 Hash search:7 ms
 ___________________
  
   node main.js a.txt baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 __________________
 Brute search:8 ms
+
 Hash search:7 ms
 
 Brute search:8 ms
+
 Hash search:7 ms
 ___________________
 
