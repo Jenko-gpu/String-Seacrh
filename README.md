@@ -1,7 +1,7 @@
 # String-Seacrh
-
+Талхин Марсель КНМО-101
 команда:
-node main.js text.txt substring
+  node main.js text.txt substring
 
 Система:
 Процессор 2.4Ghz
