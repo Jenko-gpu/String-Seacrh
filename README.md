@@ -1,6 +1,7 @@
 # String-Seacrh
 Талхин Марсель КНМО-101
-команда:
+
+  команда:
   node main.js text.txt substring
 
 Система:
