@@ -14,7 +14,7 @@ Windows 10 enterprise
   node main.js text1.txt князь Андрей
 __________________
 Brute search:40 ms
-
+##################
 Brute search:44 ms
 __________________
 
@@ -22,14 +22,14 @@ __________________
   node main.js text2.txt князь Андрей
 __________________
 Brute search:76 ms
-
+##################
 Brute search:73 ms
 __________________
 
   node main.js text3.txt князь Андрей
 ___________________
 Brute search:107 ms
-
+##################
 Brute search:121 ms
 ___________________
 
@@ -39,7 +39,7 @@ ___________________
   node main.js text1.txt князь
 __________________
 Brute search:42 ms
-
+##################
 Brute search:43 ms
 __________________
   
@@ -47,7 +47,7 @@ __________________
 
 __________________
 Brute search:46 ms
-
+##################
 Brute search:42 ms
 __________________
 
@@ -55,7 +55,7 @@ __________________
 
 __________________
 Brute search:42 ms
-
+##################
 Brute search:43 ms
 __________________
 
@@ -70,7 +70,7 @@ Brute search:445 ms
 
 Hash search:7 ms
 
-
+##################
 
 Brute search:449 ms
 
@@ -83,7 +83,7 @@ Brute search:8 ms
 
 Hash search:7 ms
 
-
+##################
 
 Brute search:8 ms
 
