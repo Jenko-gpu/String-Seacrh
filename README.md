@@ -78,7 +78,7 @@ Brute search:449 ms
 Hash search:7 ms
 ___________________
  
-  3.1 node main.js a.txt baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  3.2 node main.js a.txt baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 __________________
 Brute search:8 ms
 
