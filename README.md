@@ -11,7 +11,7 @@ Windows 10 enterprise
 Тесты:
 1) Увеличение длины текста:
 
-  node main.js text1.txt князь Андрей
+  1.1 node main.js text1.txt князь Андрей
 __________________
 Brute search:40 ms
 
@@ -19,14 +19,14 @@ Brute search:44 ms
 __________________
 
 
-  node main.js text2.txt князь Андрей
+  1.2 node main.js text2.txt князь Андрей
 __________________
 Brute search:76 ms
 
 Brute search:73 ms
 __________________
 
-  node main.js text3.txt князь Андрей
+  1.3 node main.js text3.txt князь Андрей
 ___________________
 Brute search:107 ms
 
@@ -36,14 +36,14 @@ ___________________
 
 2) Увеличение длины искомой строки:
 
-  node main.js text1.txt князь
+  2.1 node main.js text1.txt князь
 __________________
 Brute search:42 ms
 
 Brute search:43 ms
 __________________
   
-  node main.js text1.txt князь Андрей
+  2.2 node main.js text1.txt князь Андрей
 
 __________________
 Brute search:46 ms
@@ -51,7 +51,7 @@ Brute search:46 ms
 Brute search:42 ms
 __________________
 
-  node main.js text1.txt князь Андрей Болконский
+  2.3 node main.js text1.txt князь Андрей Болконский
 
 __________________
 Brute search:42 ms
@@ -64,7 +64,7 @@ __________________
 Вторая - запись в массив занимает достаточно большое время, что может повлиять на результаты.
 
 3) Сравнение brute force и "хэшей":
-  node main.js a.txt aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
+  3.1 node main.js a.txt aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaab
 __________________
 Brute search:445 ms
 
@@ -77,7 +77,7 @@ Brute search:449 ms
 Hash search:7 ms
 ___________________
  
-  node main.js a.txt baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  3.1 node main.js a.txt baaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 __________________
 Brute search:8 ms
 
